@@ -1,0 +1,31 @@
+DCS STRIKE PACKAGE - START HERE (Windows)
+=========================================
+
+1. Unzip the download. Right-click the zip, choose "Extract All...", then Extract.
+   (Do not run files from inside the zip. Extract them first.)
+
+2. Open the extracted folder and double-click   setup.bat
+
+   It does everything for you:
+     - installs Python if your PC does not have it (Windows asks for permission)
+     - installs the libraries the program needs
+     - downloads the coastline and runway data (one time)
+     - puts a "DCS Strike Package" icon on your Desktop
+
+   You need an internet connection, and it takes a few minutes.
+   If Windows shows a blue "Windows protected your PC" box, click "More info",
+   then "Run anyway". It does that for any file that did not come from a store.
+
+3. When it says "All done", press Y to start the program, or use the Desktop icon
+   any time later.
+
+IF SOMETHING GOES WRONG
+-----------------------
+- setup.bat writes everything it did to install_log.txt in the same folder.
+  Send that file when you ask for help.
+- If the Desktop icon does nothing, double-click "DCS Strike Package.bat"
+  instead. It shows error messages.
+- If Python was installed during setup and setup says it cannot see it yet,
+  close the window and double-click setup.bat once more.
+- Missions are saved to your DCS Missions folder
+  (Saved Games\DCS\Missions) unless you pick somewhere else.

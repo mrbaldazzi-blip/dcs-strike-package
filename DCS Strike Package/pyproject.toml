@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dcsgen"
+version = "0.9.0"
+description = "DCS Strike Package: era-based DCS World mission generator"
+requires-python = ">=3.10"
+dependencies = ["pydcs", "pillow"]
+
+[project.scripts]
+dcsgen = "dcsgen.cli:main"
+
+[project.gui-scripts]
+dcsgen-gui = "dcsgen.gui:main"
+
+[tool.setuptools]
+packages = ["dcsgen"]
