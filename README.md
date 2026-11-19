@@ -12,6 +12,7 @@ Active-war or pre-emptive posture, with enemy defences from light to heavy.
 Easy to run: double-click `setup.bat` once, then start the program from the shortcut it creates. No typing commands.
 Screenshots
 Overview page	Flight page
+<img width="1600" height="640" alt="image" src="https://github.com/user-attachments/assets/f715bea9-7060-49bc-abed-d472701b525d" />
 
 
 Target photos	SAM photos
