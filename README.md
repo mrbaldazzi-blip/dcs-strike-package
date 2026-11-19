@@ -16,7 +16,8 @@ Overview page	Flight page
 
 
 Target photos	SAM photos
-![Targets](images/02_target-photos.png)	![SAMs](images/03_sam-photos.png)
+<img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/9561525d-bfaf-4837-a4bc-edfdd14d9e22" />
+
 
 Install
 Download the latest zip from Releases and unzip it anywhere.
