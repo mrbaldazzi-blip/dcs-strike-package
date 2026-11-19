@@ -16,6 +16,7 @@ Overview page	Flight page
 
 
 Target photos	SAM photos
+![Targets](images/02_target-photos.png)	![SAMs](images/03_sam-photos.png)
 
 Install
 Download the latest zip from Releases and unzip it anywhere.
